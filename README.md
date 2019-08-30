@@ -84,14 +84,17 @@ bison --version
 - sample1.mc
 
 ![input_sample1](./images/input_sample1.jpg)
+
 ![output_sample1](./images/output_sample1.jpg)
 
 - sample2.mc
 
 ![input_sample2](./images/input_sample2.jpg)
+
 ![output_sample2](./images/output_sample2.jpg)
 
 - sample3.mc
 
 ![input_sample3](./images/input_sample3.jpg)
+
 ![output_sample3](./images/output_sample3.jpg)
