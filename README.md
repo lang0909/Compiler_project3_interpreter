@@ -1,8 +1,9 @@
 # Interpreter
 
 ## 개요
-
-
+flex와 bison을 이용한 interpreter를 개발한다. 인터프리터는 두 단계로 실행 된다.
+- 1단계 : 단위(문장)별로 코드를 syntax tree로 변경
+- 2단계 : syntax tree를 이용하여 실행한 후 그 결과를 출력
 
 ## 사용된 환경 & version
 - Ubuntu 18.04.1 LTS (64bit)
